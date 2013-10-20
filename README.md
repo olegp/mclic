@@ -1,4 +1,2 @@
-mclic
-=====
 
-Mcode reader for J2ME.
+![Poster](mclic.png)
